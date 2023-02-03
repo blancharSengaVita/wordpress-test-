@@ -1,0 +1,9 @@
+/*
+!readme.md
+!.gitignore
+!wp-content
+wp-content/*
+!wp-content/themes
+wp-content/themes/*
+!wp-content/themes/hepl
+wp-content/themes/hepl/public
